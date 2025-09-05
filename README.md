@@ -2,7 +2,7 @@
 
 I am a Software Developer and passionate about learning new tech
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jakeleesh's Stats](https://github-readme-stats.vercel.app/api?username=jakeleesh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
