@@ -1,25 +1,37 @@
+# Hi, I'm Jake! 👋
 
-<h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">I've been coding for 5 years and trying to continue learning.</h3>
+I am a Software Developer and passionate about learning new tech
 
-- 🔭 I’m currently working on <strong>learning Go and revising React</strong>
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jake-lee-sh" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
-  </a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,django,docker,express,go,html,java,javascript,kubernetes,mysql,nodejs,pandas,postgres,python,react,redis,spring,sqlite" />
-</p>
+- 🔭 I'm currently just reading.
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakeleesh&show_icons=true&locale=en&layout=compact" alt="jakeleesh" />
-</p>
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,css,django,docker,express,go,html,java,javascript,kubernetes,mysql,nodejs,pandas,postgres,python,react,redis,spring,sqlite)](https://skillicons.dev)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakeleesh" alt="jakeleesh" />
-</p>
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Go
+  - React
+  - AI Agents
+
+Thanks for stopping by!
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
