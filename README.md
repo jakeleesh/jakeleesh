@@ -1,6 +1,6 @@
 # Hi, I'm Jake! 👋
 
-I am a Software Developer and passionate about learning new tech
+I am a Software Developer and passionate about learning new tech.
 
 ![jakeleesh's Stats](https://github-readme-stats.vercel.app/api?username=jakeleesh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
