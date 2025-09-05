@@ -9,7 +9,7 @@ I am a Software Developer and passionate about learning new tech.
 - 🔭 I'm currently just reading.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,css,django,docker,express,go,html,java,javascript,kubernetes,mysql,nodejs,pandas,postgres,python,react,redis,spring,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,css,django,docker,express,go,html,java,javascript,kubernetes,mysql,nodejs,postgres,python,react,redis,spring,sqlite,pandas)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
